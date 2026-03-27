@@ -1,0 +1,2 @@
+# studia-programowanie-funkcyjne
+Zadanie
