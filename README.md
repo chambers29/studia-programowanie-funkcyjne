@@ -7,7 +7,7 @@ Każdy katalog `lab*` to oddzielne laboratorium i stanowi osobny zestaw zadań l
 ## 🗂️ Struktura repozytorium
 
 - 🧪 `lab1/` - pierwsze laboratorium, zawiera pliki związane z zadaniem `expenses` oraz plik uruchomieniowy `main.py`.
-- 🧪 `lab2/` - drugie laboratorium, zawiera pliki związane z przykładową logiką `client` i `hotel`.
+- 🧪 `lab2/` - drugie laboratorium, zawiera pliki związane z logiką `client` i `hotel`.
 
 ## ⚙️ Organizacja pracy
 
