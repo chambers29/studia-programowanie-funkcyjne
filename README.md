@@ -1,31 +1,22 @@
-# studia-programowanie-funkcyjne
+# 📘 Programowanie Funkcyjne
 
 ![Banner laboratorium programowania funkcyjnego](images/background.png)
 
-To repozytorium jest zorganizowane gałęziami Git.
+Repozytorium zawiera materiały i rozwiązania przygotowane w ramach przedmiotu Programowanie Funkcyjne.
 
-Branch `main` jest celowo pusty i zawiera tylko README. To nie jest błąd, tylko zaplanowany sposób pracy z repozytorium.
+Każdy katalog `lab*` to oddzielne laboratorium i stanowi osobny zestaw zadań lub przykładów omawianych na zajęciach.
 
-## Zasada działania
+## 🗂️ Struktura repozytorium
 
-- Każdy branch to osobne zadanie laboratoryjne.
-- Pliki potrzebne do danego zadania znajdują się wyłącznie w odpowiadającym mu branchu.
-- Żeby zobaczyć materiały do konkretnego laboratorium, trzeba przełączyć się na właściwą gałąź.
+- 🧪 `lab1/` - pierwsze laboratorium, zawiera pliki związane z zadaniem `expenses` oraz plik uruchomieniowy `main.py`.
+- 🧪 `lab2/` - drugie laboratorium, zawiera pliki związane z logiką `client` i `hotel`.
 
-## Jak przejść do zadania
+## ⚙️ Organizacja pracy
 
-1. Wyświetl dostępne branche:
+- Każdy folder laboratoryjny jest niezależny od pozostałych.
+- Pliki w danym katalogu odnoszą się do jednego, konkretnego laboratorium.
+- Nazwy katalogów odpowiadają kolejnym zajęciom laboratoryjnym.
 
-	```bash
-	git branch -a
-	```
+## 🎯 Cel repozytorium
 
-2. Przełącz się na branch z wybranym zadaniem:
-
-	```bash
-	git switch nazwa-brancha
-	```
-
-## GitHub / przeglądarka
-
-Jeśli przeglądasz repozytorium w GitHubie, wybierz odpowiedni branch z listy gałęzi nad widokiem plików. Na `main` nie będą widoczne pliki z zadań, ponieważ znajdują się one w osobnych branchach.
+Repozytorium porządkuje zadania z laboratoriów i ułatwia pracę nad kolejnymi tematami realizowanymi podczas kursu.
