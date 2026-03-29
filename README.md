@@ -1,5 +1,7 @@
 # 📘 Programowanie Funkcyjne
 
+![Banner laboratorium programowania funkcyjnego](images/background.png)
+
 Repozytorium zawiera materiały i rozwiązania przygotowane w ramach przedmiotu Programowanie Funkcyjne.
 
 Każdy katalog `lab*` to oddzielne laboratorium i stanowi osobny zestaw zadań lub przykładów omawianych na zajęciach.
